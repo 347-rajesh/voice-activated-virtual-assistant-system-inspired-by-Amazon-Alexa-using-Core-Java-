@@ -1,0 +1,9 @@
+# Intellij stuffs
+
+out/
+.idea/
+
+# Still working on it
+
+src/Animation.js
+src/MainFrame.java

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="Library" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/marytts-5.2/marytts-5.2/lib/marytts-client-5.2-jar-with-dependencies.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/marytts-5.2/marytts-5.2/lib/marytts-lang-de-5.2.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/marytts-5.2/marytts-5.2/lib/marytts-lang-en-5.2.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/marytts-5.2/marytts-5.2/lib/marytts-lang-fr-5.2.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/marytts-5.2/marytts-5.2/lib/marytts-lang-it-5.2.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/marytts-5.2/marytts-5.2/lib/marytts-lang-lb-5.2.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/marytts-5.2/marytts-5.2/lib/marytts-lang-ru-5.2.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/marytts-5.2/marytts-5.2/lib/marytts-lang-sv-5.2.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/marytts-5.2/marytts-5.2/lib/marytts-lang-te-5.2.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/marytts-5.2/marytts-5.2/lib/marytts-lang-tr-5.2.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/marytts-5.2/marytts-5.2/lib/marytts-runtime-5.2-jar-with-dependencies.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/marytts-5.2/marytts-5.2/lib/voice-cmu-slt-hsmm-5.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-builder/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-builder/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-client/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-client/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-common/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-common/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-languages/marytts-lang-de/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-languages/marytts-lang-de/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-languages/marytts-lang-en/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-languages/marytts-lang-en/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-languages/marytts-lang-fr/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-languages/marytts-lang-fr/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-languages/marytts-lang-it/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-languages/marytts-lang-it/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-languages/marytts-lang-lb/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-languages/marytts-lang-lb/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-languages/marytts-lang-ru/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-languages/marytts-lang-ru/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-languages/marytts-lang-sv/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-languages/marytts-lang-sv/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-languages/marytts-lang-te/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-languages/marytts-lang-te/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-languages/marytts-lang-tr/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-languages/marytts-lang-tr/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-redstart/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-runtime/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-runtime/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-signalproc/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-signalproc/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/marytts-transcription/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/voice-cmu-slt-hsmm/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/marytts-5.2.1/marytts-5.2.1/voice-cmu-slt-hsmm/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
